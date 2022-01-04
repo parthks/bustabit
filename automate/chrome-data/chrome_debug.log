@@ -1,0 +1,5 @@
+[52559:775:0528/194900.630328:INFO:CONSOLE(1)] "Running client version:  c44c40f5e5347b314eab4c6a110ef5ca4a8a1078", source: https://www.bustabit.com/static/2.d95bb473516c137eed18.js (1)
+[52559:775:0528/194900.630572:INFO:CONSOLE(1)] "%c
+Careful. This is a browser feature intended for developers. If someone told you to copy and paste something here to enable a bustabit feature or do a "hack", it is a scam and will give them access to your bustabit account.
+ font: 2em sans-serif; color: yellow; background-color: red;", source: https://www.bustabit.com/static/2.d95bb473516c137eed18.js (1)
+[52559:775:0528/194902.925668:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
